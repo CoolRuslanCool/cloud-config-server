@@ -1,0 +1,9 @@
+server.port: 8888
+#management.context-path=/admin
+#spring.profiles.active: develop
+#spring.cloud.config.server.git.clone-on-start=true
+#spring.cloud.config.enabled=false
+#spring.cloud.config.server.git.username=CoolRuslanCool
+#spring.cloud.config.server.git.password=Cool61082
+#spring.security.user.name=root
+#spring.security.user.password=root
